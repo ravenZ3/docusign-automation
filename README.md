@@ -67,7 +67,7 @@ This project automates the process of logging into a DocuSign account and sendin
 7. **Run the Script**  
    Execute the script:
    ```bash
-   node index.js
+   npm run start
    ```
 
 ## Example Directory Structure
