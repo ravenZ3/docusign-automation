@@ -50,3 +50,5 @@ __pycache__/
 # Java (if applicable)
 *.class
 
+#data
+data/
