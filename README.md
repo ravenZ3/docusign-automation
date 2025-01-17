@@ -78,7 +78,8 @@ project-folder/
 │   ├── recipients.txt
 │   ├── subject.txt
 │   └── message.txt
-├── file.pdf
+│   ├── file.pdf
+│   └── name.txt
 ├── index.js
 ├── package.json
 └── package-lock.json
